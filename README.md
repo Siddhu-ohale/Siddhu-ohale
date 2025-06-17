@@ -28,9 +28,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=150&section=footer"/>
-
 <p align="center">
   <i>"Code smart, dream big, and let the world see your fire." 🔥</i>
 </p>
