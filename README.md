@@ -32,11 +32,5 @@ class SiddharthOhale:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Siddhu-ohale&show_icons=true&theme=merko&hide_border=false&include_all_commits=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhu-ohale&theme=merko&hide_border=false" width="49%" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhu-ohale&theme=tokyonight" /> </p>
 📬 Let’s Connect!
 <p align="center"> <a href="https://linkedin.com/in/siddharth-ohale"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:siddhu.code@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Siddhu-ohale"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-✨ Features Added
-✅ 🌀 Animated waving banner
-✅ 🔥 Python-style self-introduction
-✅ 📦 Custom skill icons & stack
-✅ 📊 Advanced GitHub cards
-✅ 💌 Stylish contact section
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=150&section=footer"/> <p align="center"><i>“Code smart, dream big, and let the world see your fire.” 🔥</i></p> ```
