@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=250&section=header&text=Siddharth%20Ohale%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Siddhu-ohale&descAlignY=70&descSize=40&theme=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=250&section=header&text=Siddharth%20Ohale%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Siddhu-ohale&descAlignY=70&descSize=40&theme=gradient"/> 
+<img src "https://avatars.githubusercontent.com/u/187924218?v=4">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&width=435&lines=Python+%26+Web+Developer;BCA+Student+@The+Baap+Company;Building+Dreams+With+Code+%F0%9F%9A%80" alt="Typing SVG" />
