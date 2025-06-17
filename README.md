@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=200&section=header&text=Siddharth%20Ohale%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=200&section=header&text=Siddharth%20Ohale%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Siddhu-ohale&descAlignY=65&descSize=25" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&width=435&lines=Python+%26+Web+Developer;BCA+Student+@The+Baap+Company;Building+Dreams+With+Code+%F0%9F%9A%80" alt="Typing SVG" />
@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 <p align="center">
   <i>"Code smart, dream big, and let the world see your fire." 🔥</i>
 </p>
