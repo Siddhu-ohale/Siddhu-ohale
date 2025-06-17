@@ -1,23 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=200&section=header&text=Siddharth%20Ohale%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Siddhu-ohale&descAlignY=65&descSize=25" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Siddharth%20Ohale%20👋&fontSize=40&fontColor=333333&animation=twinkling&desc=Siddhu-ohale&descAlignY=65&descSize=25" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&width=435&lines=Python+%26+Web+Developer;BCA+Student+@The+Baap+Company;Building+Dreams+With+Code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=333333&center=true&width=435&lines=Python+%26+Web+Developer;BCA+Student+@The+Baap+Company;Building+Dreams+With+Code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap,flask,aws,git,github,vscode" />
 </p>
 
-## 📈 GitHub Stats (Enhanced View)
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhu-ohale&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhu-ohale&theme=merko&hide_border=true" width="48%" />
+<p align="center" style="color: #333333;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhu-ohale&show_icons=true&title_color=333333&text_color=333333&icon_color=00C9A7&bg_color=ffffff&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhu-ohale&theme=default&hide_border=true&background=ffffff&stroke=333333&ring=00C9A7&fire=00C9A7&currStreakNum=333333" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhu-ohale&layout=compact&theme=merko&hide_border=true&custom_title=My%20Top%20Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhu-ohale&layout=compact&title_color=333333&text_color=333333&bg_color=ffffff&hide_border=true" />
 </p>
 
 ## 📬 Let's Connect!
@@ -34,6 +33,6 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="color: #333333;">
   <i>"Code smart, dream big, and let the world see your fire." 🔥</i>
 </p>
