@@ -8,11 +8,16 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap,flask,aws,git,github,vscode" />
 </p>
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (Enhanced View)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhu-ohale&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhu-ohale&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhu-ohale&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhu-ohale&theme=merko&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhu-ohale&layout=compact&theme=merko&hide_border=true&custom_title=My%20Top%20Languages" />
 </p>
 
 ## 📬 Let's Connect!
