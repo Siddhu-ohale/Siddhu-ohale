@@ -1,72 +1,52 @@
-<div align="center" style="background-color:#0d1117; color:#ffffff; padding: 30px; border-radius: 10px;">
+<!-- <img width='100%' src='https://capsule-render.vercel.app/api?type=waving&height=200&text=Siddharth%20Ohale&fontAlign=50&fontAlignY=40&colorTime=gradient&fontSize=45&desc=🚀%20Passionate%20Developer%20|%20Anime%20Fan%20|%20Itachi%20Worshipper&descAlign=50&descAlignY=60'/> -->
 
-<h1>Hi 👋, I'm <span style="color:#58a6ff;">Siddharth Ohale</span></h1>
-<h3>A passionate full-stack developer and data scientist.</h3>
+<h1 align="center">Hi 👋, I'm Siddharth Ohale</h1>
+<h3 align="center">🚀 Passionate Software Developer | 💻 BCA Student @The Baap Company</h3>
 
-<img align='right' alt='coding' width='400px' src='https://media.licdn.com/dms/image/v2/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=VzLHMqcE50y3xqTRNMou5y2N66-JDMXvgAVx8TZYJzY'/>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=siddharthohale&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthohale" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&width=435&lines=💻+Always+coding+and+building+cool+stuff;💞+Anime+Enthusiast+%7C+Itachi+Worshipper;💪+Proud+Marathi+Mulga" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔗 Connect with me:
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently working on **NeuraX AI Assistant**  
+- 🌱 I’m learning **AI, ML, Web Development & Ethical Hacking**  
+- 💬 Ask me about: `Python`, `HTML`, `CSS`, `JavaScript (Basic)`, `SQL (Basic)`, `AI tools`  
+- 📫 How to reach me: **[Instagram](https://instagram.com/sid_ohale)**  
+- 🎥 YouTube: [OtakuEditor](https://youtube.com/@OtakuEditor)
+
+---
+
+### 🛠️ Languages and Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/siddharthohale" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/siddharthohale" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-</a>
-<a href="https://fb.com/siddharthohale" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/siddharthohale" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/siddharthohale" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,github,git,vscode,aws,mysql&perline=8" />
 </p>
 
 ---
 
-### 💻 Languages and Tools:
+### 📈 GitHub Stats
 
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth-ohale&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth-ohale&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-ohale&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthohale&show_icons=true&locale=en&layout=compact&theme=dark" />
+### 📱 Connect with me
+
+<p align="left">
+  <a href="https://instagram.com/sid_ohale" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@OtakuEditor" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:siddharthohale0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthohale&show_icons=true&locale=en&theme=dark" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthohale&theme=dark" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
----
-
-<i>_Generated with ❤️ by Siddharth Ohale_</i>
-
-</div>
