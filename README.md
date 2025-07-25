@@ -35,7 +35,9 @@
 ### 💻 Languages and Tools:
 
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="40" height="40"/>
+</a>
 <a href="https://getbootstrap.com/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" height="40"/>
 </a>
